@@ -12,7 +12,6 @@
 
 ## Connect with me:
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ## Languages and tools I use:
@@ -21,13 +20,10 @@
 
 ## Things I'm learning and experimenting with:
 <img height="32" width="32" src="http://simpleicons.org/icons/tensorflow.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/apachespark.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/apachekafka.svg" />
-
 <br />
 
 ## Things I've used in the past:
 <img height="32" width="32" src="http://simpleicons.org/icons/r.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/dynamics365.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/googlemaps.svg" />
-
-<br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=turnersale&show_icons=true&locale=en" alt="turnersale" />
