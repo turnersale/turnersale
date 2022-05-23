@@ -1,5 +1,5 @@
 # Hi 👋, I'm Turner
-### Data Scientist and Outdoor Enthusiast in Colorado
+### Sr. Data Scientist and Outdoor Enthusiast in Colorado
 
 <br />
 
@@ -15,7 +15,7 @@
 <br />
 
 ## Languages and tools I use:
-<img height="32" width="32" src="http://simpleicons.org/icons/kubernetes.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/visualstudiocode.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/scikitlearn.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/microsoftsqlserver.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/postgresql.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/jupyter.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/linux.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/powerbi.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/dask.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/amazonaws.svg" />
+<img height="32" width="32" src="http://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/dask.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/jupyter.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/kubernetes.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/visualstudiocode.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/amazonaws.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/scikitlearn.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/microsoftsqlserver.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/postgresql.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/linux.svg" /> <img height="32" width="32" src="http://simpleicons.org/icons/powerbi.svg" /> 
 <br />
 
 ## Things I'm learning and experimenting with:
