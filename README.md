@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on political science and data science intersection ideas
 - 🤔 I’m looking for help with software development best practices and good starter issues
 - 💬 Ask me about building a data centric culture by combining BI/DS and SMEs
-- ⚡ Fun fact: I love running on the trails around Pike's Peak and plan on completed my first ultramarathon in 2021
+- ⚡ Fun fact: I love running on the trails around Pike's Peak and completed my first ultramarathon in 2021
 
 ## Connect with me:
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
