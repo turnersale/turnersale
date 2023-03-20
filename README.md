@@ -1,14 +1,14 @@
 # Hi 👋, I'm Turner
-### Sr. Data Scientist and Outdoor Enthusiast in Colorado
+### Data Engineer, Former Sr. Data Scientist and Outdoor Enthusiast in Colorado
 
 <br />
 
-- 🔭 I’m currently working on product led data science
-- 🌱 I’m currently learning about genetic algorithms and recommendation engines
-- 👯 I’m looking to collaborate on political science and data science intersection ideas
-- 🤔 I’m looking for help with software development best practices and good starter issues
-- 💬 Ask me about building a data centric culture by combining BI/DS and SMEs
-- ⚡ Fun fact: I love running on the trails around Pike's Peak and completed my first ultramarathon in 2021
+- 🔭 I’m currently working on building a data architecture for global reporting
+- 🌱 I’m currently learning about genetic algorithms, distributed computing and data team management
+- 👯 I’m looking to collaborate on ideas at the intersection of political science and data science
+- 🤔 I’m looking for help with leading a data organization
+- 💬 Ask me about building a data centric culture by combining BI, DS and SMEs
+- ⚡ Fun fact: I love running on the trails around Colorado and watching the CU Women's Basketball team in the winter
 
 ## Connect with me:
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
