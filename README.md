@@ -3,10 +3,10 @@
 
 <br />
 
-- 🔭 I’m currently working on building a data architecture for global reporting
-- 🌱 I’m currently learning about genetic algorithms, distributed computing and data team management
-- 👯 I’m looking to collaborate on ideas at the intersection of political science and data science
-- 🤔 I’m looking for help with leading a data organization
+- 🔭 I’m currently working on real-time replication, advanced analytics platforms and custom ERP tooling
+- 🌱 I’m currently learning about novel writing and world building, watchmaking and multithreading
+- 👯 I’m looking to collaborate on ideas at the intersection of political science and data science (with a dash of economics)
+- 🤔 I’m looking for help with building strong data teams and managing consulting clients
 - 💬 Ask me about building a data centric culture by combining BI, DS and SMEs
 - ⚡ Fun fact: I love running on the trails around Colorado and watching the CU Women's Basketball team in the winter
 
@@ -15,18 +15,16 @@
 <br />
 
 ## Languages and tools I use today:
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/powerbi/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/apachespark/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/linux/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/black" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/black/white" />
 <br />
 
 ## Things I'm learning and experimenting with:
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/rust/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/redis/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/surrealdb/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/next.js/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/black" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go/black/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/polars/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/surrealdb/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
 <br />
 
 ## Things I've used in the past:
-<img height="32" width="32" src="https://cdn.simpleicons.org/dask/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/gitpod/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/r/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/googlemaps/black" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/apachespark/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/dask/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/gitpod/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/r/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sage/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/salesforce/black/white" />
 <br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=turnersale&show_icons=true&locale=en" alt="turnersale" />
 
 </details>
 
