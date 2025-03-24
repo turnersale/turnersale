@@ -19,7 +19,7 @@
 <br />
 
 ## Things I'm learning and experimenting with:
-<img height="32" width="32" src="https://cdn.simpleicons.org/go/black/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/polars/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/surrealdb/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/polars/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/surrealdb/black/white" /> <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
 <br />
 
 ## Things I've used in the past:
